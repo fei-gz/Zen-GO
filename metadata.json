@@ -1,0 +1,5 @@
+{
+  "name": "Zen Go",
+  "description": "A classic Go (Weiqi) game featuring a beautiful wooden board, strict rules enforcement (Ko, Suicide, Liberties), and an integrated Gemini AI opponent.",
+  "requestFramePermissions": []
+}
